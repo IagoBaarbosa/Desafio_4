@@ -8413,15 +8413,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iago.barbosa\\.nuget\\packages\\": {}
+    "C:\\Users\\hadrian.araujo\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Desafio_4",
       "projectName": "Desafio_4",
-      "projectPath": "C:\\Users\\iago.barbosa\\Desktop\\GitHub\\Desafio_4\\.local",
-      "packagesPath": "C:\\Users\\iago.barbosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iago.barbosa\\Desktop\\GitHub\\Desafio_4\\.local"
+      "projectPath": "C:\\Users\\hadrian.araujo\\Documents\\UiPath\\Desafios META\\Desafio 4\\Desafio_4\\.local",
+      "packagesPath": "C:\\Users\\hadrian.araujo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hadrian.araujo\\Documents\\UiPath\\Desafios META\\Desafio 4\\Desafio_4\\.local"
     },
     "frameworks": {
       "net461": {
@@ -8447,7 +8447,7 @@
             "version": "[22.4.7, 22.4.7]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\iago.barbosa\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\hadrian.araujo\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
